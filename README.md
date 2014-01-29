@@ -1,3 +1,3 @@
-janky-test
+jenkins-test
 ==========
 other developper commit.
