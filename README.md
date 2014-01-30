@@ -1,1 +1,1 @@
-test for merge #3
+test for merge #6
