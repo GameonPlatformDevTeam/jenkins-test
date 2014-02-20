@@ -1,2 +1,1 @@
-janky-test
-==========
+test for merge #6
